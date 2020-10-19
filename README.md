@@ -6,7 +6,7 @@ Welcome to Pathfinding Visualizer!
 
 This application supports the following algorithms: 
 
-**Dijkstra's Algorithm** (weighted): the father of pathfinding algorithms; guarantees the shortest path
+**Dijkstra's Algorithm** (weighted): the father of pathfinding algorithms; guarantees the shortest path and we can do this by using priority queue.
 
 **A* Search** (weighted): arguably the best pathfinding algorithm; uses heuristics to guarantee the shortest path much faster than Dijkstra's Algorithm
 
